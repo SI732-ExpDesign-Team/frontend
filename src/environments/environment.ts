@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  baseURL: 'https://my-json-server.typicode.com/'
+  serverBasePath: 'https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/api/v1'
 }
